@@ -1,19 +1,11 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+### [Sniffnet](https://github.com/GyulyVGC/sniffnet)
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+Sniffnet comes with a Dracula theme installed by default! <br>
+All you have to do is:
+
+1. Open Sniffnet;
+2. Open the application settings by clicking the button on the top right corner;
+3. Switch to the tab related to style settings, scroll down the page and select Dracula;
+4. Boom! It's working ✨
