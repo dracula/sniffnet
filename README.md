@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Sniffnet](https://github.com/GyulyVGC/sniffnet).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/sniffnet](https://draculatheme.com/sniffnet).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/sniffnet/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
+| [![Giuliano Bellini](https://github.com/gyulyvgc.png?size=100)](https://github.com/gyulyvgc) | [![Joshua Megnauth](https://github.com/joshuamegnauth54.png?size=100)](https://github.com/joshuamegnauth54) |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [Giuliano Bellini](https://github.com/gyulyvgc)                                               | [Joshua Megnauth](https://github.com/joshuamegnauth54)                                               |
 
 ## Community
 
