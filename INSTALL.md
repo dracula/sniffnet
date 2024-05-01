@@ -2,7 +2,8 @@
 
 #### Activating theme
 
-Sniffnet comes with a Dracula theme installed by default! <br>
+Sniffnet comes with a Dracula theme installed by default!
+
 All you have to do is:
 
 1. Open Sniffnet;
